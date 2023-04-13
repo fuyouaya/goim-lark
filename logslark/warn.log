@@ -1,0 +1,1 @@
+[2023-04-13 19:39:24.269]	[33mWARN[0m	client/auth_client.go:42	rpc error: code = Unavailable desc = last resolver error: produced zero addresses

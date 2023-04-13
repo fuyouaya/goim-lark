@@ -1,0 +1,10 @@
+[2023-04-11 15:11:06.981]	[31mERROR[0m	xmysql/mysql.go:107	Error 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+[2023-04-11 15:17:00.698]	[31mERROR[0m	xmysql/mysql.go:89	dial tcp: lookup lark-mysql-user: no such host
+[2023-04-11 21:43:31.902]	[31mERROR[0m	xgrpc/grpc.go:42	open ./configs/tls/grpc/server.pem: The system cannot find the path specified.
+[2023-04-12 21:34:57.811]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-12 21:35:16.475]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-12 21:35:45.292]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-13 19:31:47.378]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-13 19:35:17.708]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-13 19:36:45.748]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
+[2023-04-13 19:38:45.829]	[31mERROR[0m	xetcd/resolver.go:93	context deadline exceeded
